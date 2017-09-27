@@ -2,10 +2,53 @@
     
 }
 
-.hoverable {
-    transition: box-shadow .55s ;
-    box-shadow: 0;
+.imgContainer {
+    position: relative;
 }
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.imgContainer:hover .overlay {
+    opacity: 0.6;
+}
+
+.imgContainer:hover .center{
+    opacity:1;
+    border:blue;
+    border-radius:4px;
+    border-style:inset;
+    border-width:2px;
+    padding:7px;
+}
+
+
 
 #hero {
     /* The image used */

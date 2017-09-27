@@ -1,6 +1,6 @@
 ﻿/* Move down content because we have a fixed navbar that is 50px tall */
 body {
-    padding-bottom: 20px;
+    padding-top: 50px;
     /* The image used */
     background-image: url('../../Assets/img/screenlap1.jpg');
    
@@ -31,20 +31,24 @@ textarea {
     height: 50px;
 }
 
-.nav {
-    float: right;
+
+body > .container, .body-content {
+    padding: 50px 15px;
 }
 
-
+.collapsing , .navbar-collapse.in {
+    background-color: rgb(43, 43, 43);
+    text-align: center;
+}
 
 /* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
+@media (min-width: 768px) {
     .jumbotron {
         margin-top: 20px;
     }
-    .navbar-nav .open .dropdown-menu {
-        background-color:rgba(0,0,0,0.8);
-    }
+
+    
+   
     .body-content {
         padding: 0;
     }

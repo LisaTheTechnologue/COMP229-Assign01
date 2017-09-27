@@ -50,7 +50,7 @@
         <link href="Content/fontAwesome/font-awesome.css" rel="stylesheet" />
         <!-- Image and text -->
 
-        <nav class="navbar fixed-top navbar-inverse bg-faded">
+        <nav class="navbar navbar-fixed-top navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
 

@@ -12,25 +12,25 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-layout" >
+            <div class="col-md-6 col-layout">
                 <!--row consists of 12 md, depend on your choice to devide it, "sm" < "md"-->
-                <div class="view hm-zoom hm-grey-light">
+                <div class="imgContainer">
                     <a runat="server" href="~/About">
-                        <img src="/Assets/img/macbook.jpg" class="hoverable" alt="resume-img" >
-                        <div class="mask flex-center">
-                            <p class="white-text">About Me</p>
+                        <img src="/Assets/img/macbook.jpg" class="img" alt="resume-img">
+                        <div class="overlay">
+                            <p class="center">About Me</p>
                         </div>
                     </a>
                 </div>
-              
+
             </div>
 
             <div class="col-md-6 col-layout">
-                <div class="view hm-zoom hm-grey-light">
+                <div class="imgContainer">
                     <a runat="server" href="~/Contact">
-                        <img src="/Assets/img/contact.jpg" class="hoverable" alt="contact-img">
-                        <div class="mask flex-center">
-                            <p class="white-text">Contact me</p>
+                        <img src="/Assets/img/contact.jpg" class="img" alt="contact-img">
+                        <div class="overlay">
+                            <p class="center">Contact me</p>
                         </div>
                     </a>
                 </div>
