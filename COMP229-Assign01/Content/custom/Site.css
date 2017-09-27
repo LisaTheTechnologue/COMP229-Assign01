@@ -35,16 +35,16 @@ textarea {
     float: right;
 }
 
-.navbar-toggle {
-    background-color : rgba(0,0,0,0.8);
-}
+
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .jumbotron {
         margin-top: 20px;
     }
-
+    .navbar-nav .open .dropdown-menu {
+        background-color:rgba(0,0,0,0.8);
+    }
     .body-content {
         padding: 0;
     }

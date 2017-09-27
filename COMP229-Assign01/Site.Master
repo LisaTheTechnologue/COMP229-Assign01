@@ -16,14 +16,7 @@
             rel="stylesheet" type='text/css'>
 
 
-        <!--Bootstrap-->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-        <!--MBD Bootstrap-->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.3.2/css/mdb.min.css" />
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.3.2/js/mdb.min.js"></script>
+       
 
     </asp:PlaceHolder>
 
@@ -57,7 +50,7 @@
         <link href="Content/fontAwesome/font-awesome.css" rel="stylesheet" />
         <!-- Image and text -->
 
-        <nav class="navbar navbar-inverse">
+        <nav class="navbar fixed-top navbar-inverse bg-faded">
             <div class="container-fluid">
                 <div class="navbar-header">
 
