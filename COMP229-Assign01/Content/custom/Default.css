@@ -1,0 +1,21 @@
+﻿body, html {
+    
+}
+
+.hoverable {
+    transition: box-shadow .55s ;
+    box-shadow: 0;
+}
+
+#hero {
+    /* The image used */
+    background-image: url('../../Assets/img/programming640x350.png');
+    color: white;
+    /* Set a specific height */
+    height: 300px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
