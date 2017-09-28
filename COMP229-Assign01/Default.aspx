@@ -38,4 +38,18 @@
         </div>
     </div>
 
+    <hr class="ruler" />
+    <div class="container">
+        <!--2.	Your Resume Page (About Me page) should include the following components:
+a.	A current image, or accurate painting/drawing/illustration, of you. No Avatars!
+b.	A Personal Tagline and your mission statement. Your tagline should be short and snappy, summarizing what you do. Your mission statement includes at least 3 reasons for doing what you do.
+c.	A condensed bio section that includes highlights from your latest CV and a bit about you.
+d.	At least three (3) former positions (these can be real or imaginary) contained in their own <div>’s. You should include the position name, employer, dates in the job, and a brief list of your responsibilities.
+-->
+        <!--Avatar-->
+
+
+    </div>
+
+    <hr class="ruler" />
 </asp:Content>

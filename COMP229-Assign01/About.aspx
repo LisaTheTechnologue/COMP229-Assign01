@@ -48,96 +48,75 @@
     <br />
 
     <!--Resume-->
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-8">
-            </div>
-            <div class="col-sm-4">
-                <div id="technical">
-                    <h4>Technical Skills</h4>
-
-                    <i class="fa fa-file-code-o fa-3x" aria-hidden="true"></i>
+    <div>
+        <div id="tagline">
+            Thrive working with others and engaging with customers. Having a detail-oriented and insightful vision. Quick learner to emerging technology with the ability to adapt feedback quickly.
+            <br />
+        </div>
+        <div id="missions">
+        </div>
+        <div id="qualifications">
+            <ul>
+                <li>Enrolled in the Software Engineering Technology (Co-op) Advanced Diploma at Centennial College.        </li>
+                <li>Experience with programming and debugging various software.                                            </li>
+                <li>An ability to work in fast-paced environment and leadership experience to engaging people in projects. </li>
+                <li>Excellent interpersonal skills and an ability to work independently as well as a team member.          </li>
+                <li>Demonstrate outstanding customer orientation using strong communication skills.                        </li>
+                <li>Highly proficient in Microsoft Word, Excel, PowerPoint, Visio, Project Management and Outlook.         </li>
+            </ul>
+        </div>
+        <div id="technical">
+            <div class="row">
+                <div class="col-md-4">
+                    <i class="fa fa-code" aria-hidden="true"></i>
                     <h5>Programming</h5>
-
-                    <h4 class="progress-label">C# </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">Java </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 55%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">Kotlin </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 25%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">Android </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 15%"></div>
-                    </div>
-                    <br />
-
-
-                    <i class="fa fa-file-code-o fa-3x" aria-hidden="true"></i>
-                    <h5>Web Development</h5>
-
-                    <h4 class="progress-label">HTML </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 65%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">CSS </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 55%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">PHP </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 25%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">ASP.NET </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 15%"></div>
-                    </div>
-
-
-
-                    <i class="fa fa-database fa-3x" aria-hidden="true"></i>
-                    <h5>Data Managing</h5>
-
-                    <h4 class="progress-label">Oracle </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 65%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">MySql </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 15%"></div>
-                    </div>
-                    <br />
-
-
-
-                    <i class="fa fa-magic fa-3x" aria-hidden="true"></i>
-                    <h5>Designing</h5>
-
-                    <h4 class="progress-label">PS CS6 </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 45%"></div>
-                    </div>
-                    <br />
-                    <h4 class="progress-label">AI </h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 15%"></div>
-                    </div>
-                    <br />
-
+                    <p>C#, HTML, CSS, JavaScript, Java, Kotlin, SQL, JSON, AJAX</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fa fa-wrench" aria-hidden="true"></i>
+                    <h5>Development Tools</h5>
+                    <p>Visual Studio, IntelliJ IDEA, Eclipse IDEA, Android Studio</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fa fa-database" aria-hidden="true"></i>
+                    <h5>Database</h5>
+                    <p>MySQL, Oracle, SQL</p>
                 </div>
             </div>
+
         </div>
+        <div id="positions">
+            <div id="firstJob" class="job">
+                <h4>Team Member</h4>
+                <h5>Cara Inc.</h5>
+                <h6>June - September 2017</h6>
+                <ul>
+                    <li>Handled cash transactions accurately and efficiently.</li>
+                    <li>Experienced working with multiple-tasking in fast-paced environment.</li>
+                    <li></li>
+                </ul>
+            </div>
+            <div id="secondJob" class="job">
+                <h4>Lab Assistant</h4>
+                <h5>Centre for Students with Disabilities, Centennial College, Toronto, ON</h5>
+                <h6>September 2017 – Present</h6>
+                <ul>
+                    <li>Assist people in technology for students with disabilities.</li>
+                    <li>Able to connect people with diverse backgrounds, experiences, and interests.</li>
+                    <li></li>
+                </ul>
+            </div>
+            <div id="thirdJob" class="job">
+                <h4>Backend Developer</h4>
+                <h5>ABC Smart House Technologies</h5>
+                <h6>October 2017 – Present</h6>
+                <ul>
+                    <li>Assist people in technology for students with disabilities.</li>
+                    <li>Able to connect people with diverse backgrounds, experiences, and interests.</li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+
     </div>
 </asp:Content>
