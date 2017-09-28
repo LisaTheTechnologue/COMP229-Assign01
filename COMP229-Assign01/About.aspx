@@ -19,7 +19,7 @@
 
                 </div>
                 <hr />
-                <h5 style="font-weight: bold">Missions:</h5>
+                <h4 style="font-weight: bold">Missions:</h4>
                 <div id="missions">
                     I believe the <strong>Creation</strong> and <strong>Principles</strong> are dependent to each other.
             <br />
@@ -38,21 +38,21 @@
                                 <div class="col-md-4">
                                     <div class="heading">
                                         <i class="fa fa-code fa-3x" aria-hidden="true"></i>
-                                        <h5 style="font-weight: bold">Programming</h5>
+                                        <h4 style="font-weight: bold">Programming</h4>
                                     </div>
                                     <p>C#, HTML, CSS, JavaScript, Java, Kotlin, SQL, JSON, AJAX</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="heading">
                                         <i class="fa fa-wrench fa-3x" aria-hidden="true"></i>
-                                        <h5 style="font-weight: bold">Development Tools</h5>
+                                        <h4 style="font-weight: bold">Development Tools</h4>
                                     </div>
                                     <p>Visual Studio, IntelliJ IDEA, Eclipse IDEA, Android Studio</p>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="heading">
                                         <i class="fa fa-database fa-3x" aria-hidden="true"></i>
-                                        <h5 style="font-weight: bold">Database</h5>
+                                        <h4 style="font-weight: bold">Database</h4>
                                     </div>
                                     <p>MySQL, Oracle, SQL</p>
                                 </div>

@@ -2,7 +2,7 @@
 body {
     padding-top: 50px;
     /* The image used */
-    background-image: url('../../Assets/img/screenlap1.jpg');
+    background-image: url('../../Assets/img/screenlap1.jpg'); /*Pixabay*/
     /* Set a specific height */
     height: 100%;
     /* Create the parallax scrolling effect */
@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 100%;
+    font-size: 150%;
 }
 
 /* Wrapping element */

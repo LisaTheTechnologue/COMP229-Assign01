@@ -5,11 +5,12 @@
 </asp:Content>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
+    <div class="pageCustom">
     <div class="headerFont">
         <h3>Jolisa Tran</h3>
         <h4>Software Developer</h4>
     </div>
-    <div class="container pageCustom">
+    <div class="container ">
         <div class="row">
             <div class="col-md-6 boxInfo">
                 567 Military Trail<br />
@@ -29,7 +30,7 @@
                     <a href="https://www.facebook.com/lisa.chan.toronto"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                     <a href="https://plus.google.com/u/0/111764860534336794242"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a>
                     <a href="https://github.com/LisaTheTechnologue"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-                    <a href="https://www.linkedin.com/in/jolisa-chan-874580138/"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                    <a href="https://www.linkedin.com/in/jolisa-chan/"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
                 </div>
             </div>
 
@@ -60,5 +61,6 @@
             </div>
         </div>
     </div>
+        </div>
     <br />
 </asp:Content>

@@ -130,16 +130,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Assets\img\blurCode.jpg" />
     <Content Include="Assets\img\contact.jpg" />
     <Content Include="Assets\img\ipad640.jpg" />
-    <Content Include="Assets\img\laptop.jpg" />
     <Content Include="Assets\img\macbook.jpg" />
     <Content Include="Assets\img\personal.jpg" />
     <Content Include="Assets\img\personalLogo.ico" />
     <Content Include="Assets\img\programming640x350.png" />
-    <Content Include="Assets\img\screenlap.jpg" />
     <Content Include="Assets\img\screenlap1.jpg" />
-    <Content Include="Assets\img\telephoneIcon.png" />
     <Content Include="Assets\img\woman.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap\bootstrap-theme.css" />
