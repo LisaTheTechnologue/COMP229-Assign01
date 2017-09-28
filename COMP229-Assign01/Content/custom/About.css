@@ -1,9 +1,13 @@
-﻿.figure {
-    width: 250px;
+﻿.pageCustom {
+    background: #ffdda6;
+    opacity: 0.8;
+    color: black;
+}
+/*Avatar Effects*/
+.figure {
+    width: 100%;
+    padding:10px;
     background-color: #FFFFFF;
-    text-align: center;
-    font-size: .8em;
-    padding: 5px;
     border: 1px solid #CCCCCC;
     -webkit-transform: rotate(3deg);
     -moz-transform: rotate(3deg);
@@ -12,7 +16,7 @@
     transform: rotate(3deg);
     -webkit-box-shadow: 5px 5px 5px #828282;
     -moz-box-shadow: 5px 5px 5px #828282;
-    box-shadow: 5px 5px 5px #999966;
+    box-shadow: 5px 5px 5px #6b0101;
 }
 
     .figure:hover {
@@ -26,16 +30,33 @@
         transition: transform .5s linear;
     }
 
-.card-block {
-    border: 5px;
-    border-radius: 5px;
-    background-color: antiquewhite;
+    .figure > img {
+        width: 100%;
+        height: 80%;
+        padding:3px;
+    }
+
+ /*Label Effect*/
+label {
+    border-radius: 0px 50px;
+    background: rgb(173, 2, 2);
+    padding: 20px;
+    width: 100px;
+    height: 80px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.progress-label {
-    display: block;
+/*Technical Effect*/
+.heading {
+    font-weight:bold;
+    text-align:center;
 }
 
-.progress, .progress-bar {
-    height: 10px;
+/*Job*/
+.job {
+    padding: 5px;
+}
+.job > h4 {
+    font-weight: bold
 }

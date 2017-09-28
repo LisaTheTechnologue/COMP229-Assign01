@@ -130,11 +130,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="Assets\img\background.gif" />
     <Content Include="Assets\img\contact.jpg" />
     <Content Include="Assets\img\ipad640.jpg" />
     <Content Include="Assets\img\laptop.jpg" />
     <Content Include="Assets\img\macbook.jpg" />
+    <Content Include="Assets\img\personal.jpg" />
     <Content Include="Assets\img\personalLogo.ico" />
     <Content Include="Assets\img\programming640x350.png" />
     <Content Include="Assets\img\screenlap.jpg" />
@@ -163,7 +163,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Assets\img\contactme-1200x480_edited.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

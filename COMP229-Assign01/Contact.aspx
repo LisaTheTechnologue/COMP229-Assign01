@@ -6,26 +6,26 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
     <div class="headerFont">
-    <h3>Jolisa Tran</h3>
-    <h4>Software Developer</h4>
+        <h3>Jolisa Tran</h3>
+        <h4>Software Developer</h4>
     </div>
-    <div class="container">
+    <div class="container pageCustom">
         <div class="row">
             <div class="col-md-6 boxInfo">
                 567 Military Trail<br />
                 Toronto, ON M1E 4S7<br />
-           
+
                 <br />
                 <h5><strong>Phone Number:</strong></h5>
                 <a href="tel:+16477853297">6477853297</a><br />
                 <br />
-                
+
                 <h5><strong>Email:</strong></h5>
                 <a href="mailto:ctran66@my.centennialcollege.ca">ctran66@my.centennialcollege.ca</a><br />
 
-                <hr class="sns"/>
+                <hr class="sns" />
                 <div id="sns">
-                    
+
                     <a href="https://www.facebook.com/lisa.chan.toronto"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
                     <a href="https://plus.google.com/u/0/111764860534336794242"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a>
                     <a href="https://github.com/LisaTheTechnologue"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
@@ -60,4 +60,5 @@
             </div>
         </div>
     </div>
+    <br />
 </asp:Content>

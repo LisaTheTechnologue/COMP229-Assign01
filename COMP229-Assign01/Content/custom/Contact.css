@@ -1,4 +1,9 @@
-﻿.headerFont {
+﻿.pageCustom {
+    background: #ffdda6;
+    opacity: 0.8;
+}
+
+.headerFont {
     text-align: center;
 }
 
@@ -26,7 +31,7 @@
 .boxInfo {
     padding: 5px 15px;
     border: solid;
-    border-color: burlywood;
+    border-color: #e0c005;
     border-width: 2px;
     border-left: none;
     border-right: none;
