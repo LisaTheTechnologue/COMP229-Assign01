@@ -1,0 +1,70 @@
+﻿.headerFont {
+    text-align: center;
+}
+
+#sns {
+    bottom: 0px;
+    position: absolute;
+}
+
+.fa {
+    padding-left: 30px;
+    padding-right: 10px;
+    color: black;
+}
+
+.fa-2x {
+    font-size: 1.5em;
+}
+
+.sns {
+    position: absolute;
+    width: 90%;
+    border-top-color: darkgray;
+}
+
+.boxInfo {
+    padding: 5px 15px;
+    border: solid;
+    border-color: burlywood;
+    border-width: 2px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    position: relative;
+    min-height: 240px;
+    font-size: smaller;
+}
+
+.boxForm {
+    padding: 5px;
+    border: solid;
+    border-color: burlywood;
+    border-width: 2px;
+    border-right: none;
+    border-bottom: none;
+    position: relative;
+}
+
+#inputName, #inputEmail {
+    margin-left: 10px;
+}
+
+#inputSubject, #inputMessage, .btn-block {
+    margin-left: 25px;
+    width: 90%;
+}
+
+.form-inline {
+    width: 95%;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 15px 10px;
+}
+
+@media (min-width: 768px) {
+    .form-inline .form-control {
+        width: 100%;
+    }
+}
