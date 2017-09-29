@@ -42,13 +42,14 @@
 }
 
 .boxForm {
-    padding: 5px;
+    padding: 5px 15px;
     border: solid;
-    border-color: burlywood;
+    border-color: #e0c005;
     border-width: 2px;
     border-right: none;
     border-bottom: none;
     position: relative;
+    min-height: 240px;
 }
 
 #inputName, #inputEmail {
