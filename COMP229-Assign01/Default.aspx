@@ -7,12 +7,14 @@
 </asp:Content>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!--Landing Page-->
+    <!--Hero banner-->
     <div class="jumbotron jumbotron-fluid" id="hero">
         <h1>Jolisa Tran </h1>
         <p class="lead">As a person who is always passionate in technology, I believe Web Development is for everyone that has a studious attitude.</p>
         <p><a href="https://www.linkedin.com/in/jolisa-chan/" class="btn btn-primary btn-lg">Coffee Chat?</a></p>
     </div>
 
+    <!--Table of Content-->
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-layout">

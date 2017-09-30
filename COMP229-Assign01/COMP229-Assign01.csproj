@@ -168,7 +168,6 @@
     <Content Include="Content\bootstrap\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap\bootstrap.css.map" />
-    <Content Include="Scripts\custom\app.js" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
